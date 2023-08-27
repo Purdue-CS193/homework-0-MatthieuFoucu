@@ -7,12 +7,13 @@
 - the TA's are funny and engaging
 - Hopefully a relatively easy class.
 - helps fill in the gaps that 180blk assumes you know
-- 
+  
+
 
 ```markdown
 Syntax highlighted code block
 
-# Header 11
+# Header 1
 ## Header 2
 ### Header 3
 
